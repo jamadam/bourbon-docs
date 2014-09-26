@@ -31,5 +31,5 @@
     "themeleon": "1.*",
     "themeleon-swig": "1.*",
     "run-sequence": "^0.3.7"
-  },
+  }
 }

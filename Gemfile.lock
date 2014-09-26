@@ -1,0 +1,19 @@
+GIT
+  remote: git@github.com:thoughtbot/bourbon.git
+  revision: 61e595a1e9c3f9360f6bf3dd9430471b2fa71687
+  specs:
+    bourbon (4.0.2)
+      sass (~> 3.3)
+      thor
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    sass (3.4.5)
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bourbon!
