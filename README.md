@@ -1,4 +1,4 @@
-## Neat Documentation
+## Bourbon Documentation
 
 All the following commands should be run on `master`
 
@@ -23,7 +23,7 @@ Then visit `http://localhost:3000/latest`
 #### Update the Docs
 
 To update the docs, first update the version in the `package.json` to match the
-one [here](https://github.com/thoughtbot/neat/blob/master/lib/neat/version.rb),
+one [here](https://github.com/thoughtbot/bourbon/blob/master/lib/bourbon/version.rb),
 then run the following command to update the local Neat folder:
 
 ```
