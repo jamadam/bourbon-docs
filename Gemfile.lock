@@ -1,6 +1,7 @@
 GIT
   remote: git@github.com:thoughtbot/bourbon.git
-  revision: f6fa980e4e9f6628be2d8dee81e7ad106563180b
+  revision: 6a359e0185776c6f53e2a07406fc3e094d474ef7
+  branch: inline-docs
   specs:
     bourbon (4.0.2)
       sass (~> 3.3)
