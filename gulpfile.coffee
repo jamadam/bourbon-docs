@@ -57,7 +57,7 @@ gulp.task "sassdoc", ->
       theme: "theme"
       config: "./theme/view.json"
 
-gulp.task "browser-sync", ["sass", "coffee"], ->
+gulp.task "browser-sync", ["sass", "coffee", "sassdoc"], ->
   browserSync.init null,
     server:
       baseDir: "docs"
