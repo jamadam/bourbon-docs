@@ -10,6 +10,8 @@ npm install
 npm install -g gulp
 ```
 
+If you already had `npm` installed, make sure you are running `2.x`.
+
 #### Update the Theme
 
 For local preview/theme development, run:
