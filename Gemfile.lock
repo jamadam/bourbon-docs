@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:thoughtbot/bourbon.git
-  revision: 61e595a1e9c3f9360f6bf3dd9430471b2fa71687
+  revision: f6fa980e4e9f6628be2d8dee81e7ad106563180b
   specs:
     bourbon (4.0.2)
       sass (~> 3.3)
@@ -9,7 +9,10 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
-    sass (3.4.5)
+    neat (1.7.0)
+      bourbon (>= 4.0)
+      sass (>= 3.3)
+    sass (3.4.7)
     thor (0.19.1)
 
 PLATFORMS
@@ -17,3 +20,4 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon!
+  neat
